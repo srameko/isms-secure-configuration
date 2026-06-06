@@ -12,12 +12,10 @@ fonts:
   sans: Open Sans
   mono: Source Code Pro
 ---
-
----
 layout: cover
 subtitle: Specialistka informační bezpečnosti
 author: Ondřej Šrámek
-date: únor 2025
+date: 2026
 ---
 # Secure Configuration
 
