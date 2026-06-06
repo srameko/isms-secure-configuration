@@ -1,25 +1,12 @@
-# Slidev Template for Czechitas Cyber Security Classes
+# Secure Configuration
 
-# Course Title
+Prezentace pro kurz Czechitas Digital Academy: Kyberbezpečnost. Pokrývá správu konfigurací dle ISO 27001 — opatření 8.9, 8.18, 8.19, 8.24 a 5.37: správu konfigurací, privilegovaná administrátorská nástroje, instalaci softwaru na operační systémy, použití kryptografie a zdokumentované provozní postupy.
 
-One paragraph describing what the presentation covers and which Czechitas course it belongs to.
+## Slidy
 
-## Setup
+Aktuální verze online:
+https://srameko.github.io/isms-secure-configuration/
 
-After creating a repo from this template, replace all occurrences of `REPO_NAME` with the actual repository name:
-- `package.json` — `name` field and `build` script
-- `.github/workflows/deploy-slides.yml` — PDF export step
+## Stáhnout PDF
 
-Then update `slides.md`:
-- `title`, `author`, `date` in frontmatter
-- Cover slide heading
-- Bio slide details
-
-## Slides
-
-Latest version available online:
-https://srameko.github.io/REPO_NAME/
-
-## Download PDF
-
-[REPO_NAME.pdf](https://srameko.github.io/REPO_NAME/REPO_NAME.pdf)
+[isms-secure-configuration.pdf](https://srameko.github.io/isms-secure-configuration/isms-secure-configuration.pdf)

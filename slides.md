@@ -1,48 +1,74 @@
 ---
 theme: ./theme
-title: "Course Title"
-info: "Description"
-author: Lecturer Name
+title: Secure Configuration
+info: ISO 27001 — 8.9, 8.18, 8.19, 8.24, 5.37
+author: Ondřej Šrámek
+date: 2026
 mdc: true
 shiki:
   theme: github-light
-favicon: /favicon.png  
+favicon: /favicon.png
 fonts:
   sans: Open Sans
   mono: Source Code Pro
 ---
-# Course Title
 
-Description
+---
+layout: cover
+subtitle: Digital Academy — Cybersecurity
+author: Ondřej Šrámek
+date: February 2025
+---
+# Secure Configuration
 
-Lecturer Name · Czechitas · Month 202X
 ---
 layout: bio
 image: /ondrej.png
 name: "Ondřej Šrámek"
 subtitle: "GMON, GNFA, GCTI"
 ---
-- Worked in the public sector and commercial sector
-- 12+ years in the field, primarily Incident Response, DFIR, Threat Hunting and Threat Intelligence
+- Pracoval ve veřejném i komerčním sektoru
+- 13+ let v oboru, primárně Incident Response, DFIR, Threat Hunting a Threat Intelligence
+- Lektor kybernetické bezpečnosti v Czechitas
 ::qr::
 <QRCode url="https://linktr.ee/ondrejsramek" :size="120">Linktree</QRCode>
+
 ---
 src: ./slides/00-agenda.md
 ---
----
-src: ./slides/01-topic.md
----
----
-layout: center
----
-# Feedback
 
-<!-- TODO: Replace URL with the actual feedback form link -->
-<QRCode url="https://moje.czechitas.cz/cs/zpetna-vazba" :size="200">Feedback form</QRCode>
 ---
-layout: center
+src: ./slides/01-revision.md
 ---
-# Thank You for Your Attention!
-Ondřej Šrámek
 
-**Czechitas · DA <Test|Cybersecurity> · 202X**
+---
+src: ./slides/02-configuration-management.md
+---
+
+---
+src: ./slides/03-privileged-tools.md
+---
+
+---
+src: ./slides/04-software-installation.md
+---
+
+---
+src: ./slides/05-exercise-cm-vs-chm.md
+---
+
+---
+src: ./slides/06-cryptography.md
+---
+
+---
+src: ./slides/07-operational-procedures.md
+---
+
+---
+src: ./slides/08-exercise-crypto.md
+---
+
+---
+src: ./slides/99-closing.md
+---
