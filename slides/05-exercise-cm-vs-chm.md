@@ -10,6 +10,8 @@ Pro každou níže uvedenou aktivitu rozhodněte: jde o <strong>Change Managemen
 
 **Breakout Rooms — klasifikujte a diskutujte:**
 
+<div class="exercise-table">
+
 | Aktivita | CM nebo CHM? |
 |----------|-------------|
 | Nastavení standardní konfigurace nového serveru | ? |
@@ -18,3 +20,11 @@ Pro každou níže uvedenou aktivitu rozhodněte: jde o <strong>Change Managemen
 | Instalace nového monitorovacího agenta | ? |
 | Dočasné otevření portu „jen pro testování" | ? |
 | Obnovení konfigurace ze zálohy po incidentu | ? |
+
+</div>
+
+<style>
+.exercise-table table {
+  font-size: 0.78em;
+}
+</style>
