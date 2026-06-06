@@ -104,7 +104,7 @@ layout: center
 
 Ondřej Šrámek
 
-**Czechitas · Digital Academy: Cybersecurity · únor 2025**
+**Czechitas · Specialistka informační bezpečnosti · únor 2025**
 
 [linktr.ee/ondrejsramek](https://linktr.ee/ondrejsramek)
 

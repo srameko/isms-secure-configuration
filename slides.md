@@ -15,9 +15,9 @@ fonts:
 
 ---
 layout: cover
-subtitle: Digital Academy — Cybersecurity
+subtitle: Specialistka informační bezpečnosti
 author: Ondřej Šrámek
-date: February 2025
+date: únor 2025
 ---
 # Secure Configuration
 
@@ -29,7 +29,7 @@ subtitle: "GMON, GNFA, GCTI"
 ---
 - Pracoval ve veřejném i komerčním sektoru
 - 13+ let v oboru, primárně Incident Response, DFIR, Threat Hunting a Threat Intelligence
-- Lektor kybernetické bezpečnosti v Czechitas
+- Lektor kybernetické bezpečnosti v Czechitas — Specialistka informační bezpečnosti
 ::qr::
 <QRCode url="https://linktr.ee/ondrejsramek" :size="120">Linktree</QRCode>
 
