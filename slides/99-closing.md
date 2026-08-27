@@ -77,12 +77,12 @@ layout: default
 
 # Ukázky nástrojů
 
-| Nástroj | Video |
-|---------|-------|
-| Ansible (Infrastructure as Code) | [youtube.com/watch?v=xRMPKQweySE](https://www.youtube.com/watch?v=xRMPKQweySE) |
-| Confluence (Dokumentace) | [youtube.com/watch?v=ttBOaCNIEUk](https://www.youtube.com/watch?v=ttBOaCNIEUk) |
-| Jira (Change Management) | [youtube.com/watch?v=Z-a1RB9HvDI](https://www.youtube.com/watch?v=Z-a1RB9HvDI) |
-| Intune (Správa endpointů) | [youtube.com/watch?v=bNNhCSCKz_k](https://www.youtube.com/watch?v=bNNhCSCKz_k) |
+| Nástroj | Téma |
+|---------|------|
+| [Ansible](https://www.youtube.com/watch?v=xRMPKQweySE) | Infrastructure as Code |
+| [Confluence](https://www.youtube.com/watch?v=ttBOaCNIEUk) | Dokumentace |
+| [Jira](https://www.youtube.com/watch?v=Z-a1RB9HvDI) | Change Management |
+| [Intune](https://www.youtube.com/watch?v=bNNhCSCKz_k) | Správa endpointů |
 
 ---
 layout: default
