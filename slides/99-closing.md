@@ -77,41 +77,15 @@ layout: default
 
 # Přehled nástrojů
 
-<div class="tools-table">
+| Kategorie | Nástroje |
+|-----------|---------|
+| **Správa konfigurací** | [Ansible](https://www.redhat.com/en/ansible-collaborative?intcmp=7015Y000003t7aWQAQ) · [Terraform](https://developer.hashicorp.com/terraform) · [Puppet](https://www.puppet.com/products/puppet-edge-management) · [Chef](https://www.chef.io) · [Salt](https://saltproject.io) |
+| **Dokumentace** | [Confluence](https://www.atlassian.com/software/confluence) · Wiki |
+| **Instalace softwaru** | Intune / Software Center |
+| **Change Management** | [Jira](https://www.atlassian.com/software/jira) · [ServiceNow](https://www.servicenow.com) |
+| **Automatizace** | [n8n](https://n8n.io) · CI/CD pipelines |
 
-| Kategorie | Nástroj | URL |
-|-----------|---------|-----|
-| **Správa konfigurací** | Ansible | [redhat.com/en/ansible-collaborative](https://www.redhat.com/en/ansible-collaborative?intcmp=7015Y000003t7aWQAQ) |
-| **Správa konfigurací** | Terraform | [developer.hashicorp.com/terraform](https://developer.hashicorp.com/terraform) |
-| **Správa konfigurací** | Puppet | [puppet.com/products/puppet-edge-management](https://www.puppet.com/products/puppet-edge-management) |
-| **Správa konfigurací** | Chef | [chef.io](https://www.chef.io) |
-| **Správa konfigurací** | Salt | [saltproject.io](https://saltproject.io) |
-| **Dokumentace** | Confluence | [atlassian.com/software/confluence](https://www.atlassian.com/software/confluence) |
-| **Dokumentace** | Wiki | <!-- TODO --> |
-| **Instalace softwaru** | Intune / Software Center | <!-- TODO --> |
-| **Change Management** | Jira | [atlassian.com/software/jira](https://www.atlassian.com/software/jira) |
-| **Change Management** | ServiceNow | [servicenow.com](https://www.servicenow.com) |
-| **Automatizace** | n8n | [n8n.io](https://n8n.io) |
-| **Automatizace** | CI/CD pipelines | <!-- TODO --> |
-
-</div>
-
-<style>
-.tools-table table {
-  font-size: 0.68em;
-}
-</style>
-
----
-layout: default
----
-
-# Video zdroje
-
-- **Ansible** (Infrastructure as Code) — [youtube.com/watch?v=xRMPKQweySE](https://www.youtube.com/watch?v=xRMPKQweySE)
-- **Confluence** (Dokumentace) — [youtube.com/watch?v=ttBOaCNIEUk](https://www.youtube.com/watch?v=ttBOaCNIEUk)
-- **Jira** (Change Management) — [youtube.com/watch?v=Z-a1RB9HvDI](https://www.youtube.com/watch?v=Z-a1RB9HvDI)
-- **Intune** (Správa endpointů) — [youtube.com/watch?v=bNNhCSCKz_k](https://www.youtube.com/watch?v=bNNhCSCKz_k)
+**Video zdroje:** [Ansible](https://www.youtube.com/watch?v=xRMPKQweySE) (Infrastructure as Code) · [Confluence](https://www.youtube.com/watch?v=ttBOaCNIEUk) (Dokumentace) · [Jira](https://www.youtube.com/watch?v=Z-a1RB9HvDI) (Change Management) · [Intune](https://www.youtube.com/watch?v=bNNhCSCKz_k) (Správa endpointů)
 
 ---
 layout: center
