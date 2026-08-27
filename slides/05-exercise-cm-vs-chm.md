@@ -33,11 +33,6 @@ layout: center
 
 # 🛠️ Úkol na 15 min — řešení
 
-<div class="callout">
-<span class="tag-chm">Configuration Management</span> = definice nebo obnova schválené základní konfigurace.
-<span class="tag-cm">Change Management</span> = jakákoli řízená změna nastavení běžícího produkčního systému.
-</div>
-
 <div class="exercise-table">
 
 | Aktivita | Řešení |

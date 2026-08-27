@@ -2,7 +2,7 @@
 layout: center
 ---
 
-# 🛠️ Úkol na 14 minut
+# 🛠️ Úkol na 15 minut
 
 <div class="callout">
 Zamyslete se nad naší fiktivní společností. Kde byste použili kryptografii? Proč?
