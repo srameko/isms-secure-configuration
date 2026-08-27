@@ -77,15 +77,41 @@ layout: default
 
 # Přehled nástrojů
 
-| Kategorie | Nástroje |
-|-----------|---------|
-| **Správa konfigurací** | Ansible · Terraform · Puppet · Chef · Salt |
-| **Dokumentace** | Confluence · Wiki |
-| **Instalace softwaru** | Intune / Software Center |
-| **Change Management** | Jira · ServiceNow |
-| **Automatizace** | n8n · CI/CD pipelines |
+<div class="tools-table">
 
-**Video zdroje:** Ansible (Infrastructure as Code) · Confluence (Dokumentace) · Jira (Change Management) · Intune (Správa endpointů)
+| Kategorie | Nástroj | URL |
+|-----------|---------|-----|
+| **Správa konfigurací** | Ansible | [redhat.com/en/ansible-collaborative](https://www.redhat.com/en/ansible-collaborative?intcmp=7015Y000003t7aWQAQ) |
+| **Správa konfigurací** | Terraform | [developer.hashicorp.com/terraform](https://developer.hashicorp.com/terraform) |
+| **Správa konfigurací** | Puppet | [puppet.com/products/puppet-edge-management](https://www.puppet.com/products/puppet-edge-management) |
+| **Správa konfigurací** | Chef | [chef.io](https://www.chef.io) |
+| **Správa konfigurací** | Salt | [saltproject.io](https://saltproject.io) |
+| **Dokumentace** | Confluence | [atlassian.com/software/confluence](https://www.atlassian.com/software/confluence) |
+| **Dokumentace** | Wiki | <!-- TODO --> |
+| **Instalace softwaru** | Intune / Software Center | <!-- TODO --> |
+| **Change Management** | Jira | [atlassian.com/software/jira](https://www.atlassian.com/software/jira) |
+| **Change Management** | ServiceNow | [servicenow.com](https://www.servicenow.com) |
+| **Automatizace** | n8n | [n8n.io](https://n8n.io) |
+| **Automatizace** | CI/CD pipelines | <!-- TODO --> |
+
+</div>
+
+<style>
+.tools-table table {
+  font-size: 0.68em;
+}
+</style>
+
+---
+layout: default
+---
+
+# Video zdroje
+
+- **Ansible** (Infrastructure as Code) — [youtube.com/watch?v=xRMPKQweySE](https://www.youtube.com/watch?v=xRMPKQweySE)
+- **Confluence** (Dokumentace) — [youtube.com/watch?v=ttBOaCNIEUk](https://www.youtube.com/watch?v=ttBOaCNIEUk)
+- **Jira** (Change Management) — [youtube.com/watch?v=Z-a1RB9HvDI](https://www.youtube.com/watch?v=Z-a1RB9HvDI)
+- **Intune** (Správa endpointů) — [youtube.com/watch?v=bNNhCSCKz_k](https://www.youtube.com/watch?v=bNNhCSCKz_k)
 
 ---
 layout: center
