@@ -94,7 +94,7 @@ layout: default
 |-----------|---------|
 | **Správa konfigurací** | [Ansible](https://www.redhat.com/en/ansible-collaborative?intcmp=7015Y000003t7aWQAQ) · [Terraform](https://developer.hashicorp.com/terraform) · [Puppet](https://www.puppet.com/products/puppet-edge-management) · [Chef](https://www.chef.io) · [Salt](https://saltproject.io) |
 | **Dokumentace** | [Confluence](https://www.atlassian.com/software/confluence) · Wiki |
-| **Instalace softwaru** | Intune / Software Center |
+| **Instalace softwaru** | [Intune](https://www.microsoft.com/cs-cz/security/business/microsoft-intune) / Software Center |
 | **Change Management** | [Jira](https://www.atlassian.com/software/jira) · [ServiceNow](https://www.servicenow.com) |
 | **Automatizace** | [n8n](https://n8n.io) · CI/CD pipelines |
 
