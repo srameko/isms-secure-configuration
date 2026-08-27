@@ -75,6 +75,19 @@ layout: default
 layout: default
 ---
 
+# Ukázky nástrojů
+
+| Nástroj | Video |
+|---------|-------|
+| Ansible (Infrastructure as Code) | [youtube.com/watch?v=xRMPKQweySE](https://www.youtube.com/watch?v=xRMPKQweySE) |
+| Confluence (Dokumentace) | [youtube.com/watch?v=ttBOaCNIEUk](https://www.youtube.com/watch?v=ttBOaCNIEUk) |
+| Jira (Change Management) | [youtube.com/watch?v=Z-a1RB9HvDI](https://www.youtube.com/watch?v=Z-a1RB9HvDI) |
+| Intune (Správa endpointů) | [youtube.com/watch?v=bNNhCSCKz_k](https://www.youtube.com/watch?v=bNNhCSCKz_k) |
+
+---
+layout: default
+---
+
 # Přehled nástrojů
 
 | Kategorie | Nástroje |
@@ -84,8 +97,6 @@ layout: default
 | **Instalace softwaru** | Intune / Software Center |
 | **Change Management** | [Jira](https://www.atlassian.com/software/jira) · [ServiceNow](https://www.servicenow.com) |
 | **Automatizace** | [n8n](https://n8n.io) · CI/CD pipelines |
-
-**Video zdroje:** [Ansible](https://www.youtube.com/watch?v=xRMPKQweySE) (Infrastructure as Code) · [Confluence](https://www.youtube.com/watch?v=ttBOaCNIEUk) (Dokumentace) · [Jira](https://www.youtube.com/watch?v=Z-a1RB9HvDI) (Change Management) · [Intune](https://www.youtube.com/watch?v=bNNhCSCKz_k) (Správa endpointů)
 
 ---
 layout: center
