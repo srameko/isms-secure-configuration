@@ -2,13 +2,11 @@
 layout: center
 ---
 
-# 🛠️ Skupinové cvičení — 15 min
+# 🛠️ Úkol na 14 minut
 
 <div class="callout">
 Zamyslete se nad naší fiktivní společností. Kde byste použili kryptografii? Proč?
 </div>
-
-**Breakout Rooms — diskutujte:**
 
 | Scénář | Šifrovat? Proč? |
 |--------|----------------|
