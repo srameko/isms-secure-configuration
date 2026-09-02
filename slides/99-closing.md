@@ -105,7 +105,7 @@ layout: center
 # Zpětná vazba
 
 <!-- TODO: Replace URL with the actual feedback form link -->
-<QRCode url="https://FEEDBACK_FORM_URL" :size="200">Formulář zpětné vazby</QRCode>
+<QRCode url="https://moje.czechitas.cz/cs/zpetna-vazba" :size="200">Zpětná vazba</QRCode>
 
 ---
 layout: center
