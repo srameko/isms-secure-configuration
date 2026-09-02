@@ -45,10 +45,13 @@ defineProps({
   flex: 1;
   display: flex;
   align-items: center;
+  justify-content: space-between;
+  gap: 2rem;
   z-index: 1;
 }
 .cover-text {
   max-width: 55%;
+  flex-shrink: 0;
 }
 .title :deep(h1) {
   color: #ffffff;
@@ -73,12 +76,11 @@ defineProps({
   margin: 0.15rem 0;
 }
 .cover-character {
-  position: absolute;
-  right: 2rem;
-  top: 50%;
-  transform: translateY(-55%);
+  flex-shrink: 0;
+  margin-right: -2rem;
 }
 .cover-character img {
+  display: block;
   height: 420px;
   width: auto;
   object-fit: contain;
